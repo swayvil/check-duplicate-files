@@ -8,4 +8,6 @@ go build
 ```
 
 Output:<br/>
-<CRC32 Hash>;<Index>;<File path><br/>
+```
+<CRC32 Hash>;<Index>;<File path>
+```
