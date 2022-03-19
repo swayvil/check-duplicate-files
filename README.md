@@ -11,3 +11,5 @@ Only duplicate files are output:<br/>
 ```
 <CRC32 Hash>;<Index>;<File path>
 ```
+
+Duplicate files are sorted by the timestamp written in their filename. See [rename-by-mdate](https://github.com/swayvil/rename-by-mdate)
