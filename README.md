@@ -1,5 +1,5 @@
 # check-duplicate-files
-List duplicate files based on their hash signature. Optionnaly use "remove" parameter to <ins>move</ins> the duplicates to a folder named "REMOVED".
+List duplicate files based on their hash signature. Optionally use "remove" parameter to <ins>move</ins> the duplicates to a folder named "REMOVED".
 
 ## Usage
 ```
